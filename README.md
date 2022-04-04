@@ -1,2 +1,10 @@
 # Simple-Motion-Detector
-A simple Motion detector made by Lane Ables, Tristan Culver, and Carson Qualls.
+A simple Motion detector made by Lane Ables, Tristan Culver, and Carson Qualls from Chester County High School with Lane as the Software Manager, Carson as the Hardware Manager, and Tristan as the Project Manager.
+This wasn't our original idea for a project, we originally wanted to build a smart alarm clock that had a feature that allowed the user to change timezones in the event that they wanted to move or simply see what the time was in another country. Due to an  error in parts delivery we were scraped down to one last week to build something and we threw it together and made it work.
+
+Tristan: I personally went into this class because I love technology but I really have a hard time with how it's explained. But I didn't let that stop me after I tripped up a few times and had fun with my friends as I learned
+
+Carson: I went into this class because I love computers and tech, i find it easier when it comes to hardware over software. I can name every core component of a computer, but I can't code much without a little help. Even though I'm lacking on software and coding I always have friends to help. I hope as I grow as a person with this information I'm being tought I can start my own computer/device repair and computer building shop. I love tinkering with computer hardware like in my gaming computer I've taken it completely apart and put it back together with no stuggle. I hope one day I can get a better GPU and CPU.
+Even though out project was a fail in the begging our team made something work and im proud of our commitment.
+
+Lane: When my School made us chose what classes we wanted to join for high school I threw this class in as kinda a filler but I also did like tech and wanted to see exactly what this class would teach me. Now after being in this class and learning to kind I find it very difficult with software but not as difficult with hardware. I'm still very appreciative for the oppertunity to join this class but I don't find it likely that I will take it again.
